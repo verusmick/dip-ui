@@ -12,7 +12,7 @@
     var vm;
     var el;
 
-    beforeEach(module('dipUi'));
+    beforeEach(module('test'));
     beforeEach(inject(function($compile, $rootScope, githubContributor, $q, _$log_) {
       $log = _$log_;
 

@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('dipUi')
+    .module('test')
     .config(config);
 
   /** @ngInject */

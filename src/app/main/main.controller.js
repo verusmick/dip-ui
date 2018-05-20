@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('dipUi')
+    .module('test')
     .controller('MainController', MainController);
 
   /** @ngInject */
@@ -11,7 +11,7 @@
 
     vm.awesomeThings = [];
     vm.classAnimation = '';
-    vm.creationDate = 1524607713692;
+    vm.creationDate = 1526859650368;
     vm.showToastr = showToastr;
 
     activate();

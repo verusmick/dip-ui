@@ -12,8 +12,8 @@
         "module": null
       },
       "router": {
-        "key": "noRouter",
-        "module": null
+        "key": "ui-router",
+        "module": "ui.router"
       },
       "ui": {
         "key": "noUI",

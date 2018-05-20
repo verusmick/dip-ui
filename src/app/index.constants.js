@@ -3,7 +3,7 @@
   'use strict';
 
   angular
-    .module('dipUi')
+    .module('test')
     .constant('malarkey', malarkey)
     .constant('moment', moment);
 

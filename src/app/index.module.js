@@ -2,6 +2,6 @@
   'use strict';
 
   angular
-    .module('dipUi', ['toastr']);
+    .module('test', ['ui.router', 'toastr']);
 
 })();
